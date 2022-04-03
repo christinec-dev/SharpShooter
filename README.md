@@ -26,3 +26,10 @@ Check out my portfolio: https://christinecdev.com/
  
 ## Video Demo
 https://youtu.be/WkYR_HYdIgM
+
+## Main UI
+![HighresScreenshot00002](https://user-images.githubusercontent.com/87696858/161436428-5d345086-6b60-409e-b42d-d62780dde1c1.png)
+![HighresScreenshot00003](https://user-images.githubusercontent.com/87696858/161436433-ce4d36a7-2e83-4e5a-9f48-029cb46467fd.png)
+![HighresScreenshot00004](https://user-images.githubusercontent.com/87696858/161436435-be8578fa-36d7-4be0-a573-677e50b13ad3.png)
+![img](https://user-images.githubusercontent.com/87696858/161436436-392f8cc0-9f22-4037-90a3-abe9ee8f103f.png)
+![HighresScreenshot00001](https://user-images.githubusercontent.com/87696858/161436437-5acb2e2e-b8be-4341-a110-25b36d05f32f.png)
